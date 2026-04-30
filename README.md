@@ -9,7 +9,7 @@
   
 - <b>School Projects</b>
   - [Windows Server Lab](https://github.com/A1d3nsSymph0ny/WindowsServerLab)
-  - [Cisco Networking Project](Link To Document)
+  - [Cisco Networking Project](https://github.com/A1d3nsSymph0ny/CiscoNetworkingProject)
   - [Firewall Setup](Link To Document)
   - [Cyber Forensics)](Link To Document)
  
