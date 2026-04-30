@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>Hey, I'm Aiden! <br/><a href="https://github.com/A1d3nsSymph0ny"> </a> <a href="www.linkedin.com/in/aiden-rose-3b5a95278">Cybersecurity Student</a> </h1>
 
-<!--
-**A1d3nsSymph0ny/A1d3nsSymph0ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 My Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Current HomeLab</b>
+  - [Project Name](link to sub repo)
+- <b>PenTest Lab and CTF Enviorment</b>
+  - [Project Name](link to sub repo)
+  
+- <b>School Projects</b>
+  - [Windows Server](Link To Document)
+  - [Cisco Networking Project](Link To Document)
+  - [Firewall Setup](Link To Document)
+  - [Cyber Forensics)](Link To Document)
+ 
+<h2>My Certifications:</h2>
+   - [Cert Name](link to cert)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/a1d3ns.symph0ny/
+[linkedin]: https://www.linkedin.com/in/aiden-rose-3b5a95278/
