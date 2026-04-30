@@ -2,19 +2,19 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Current HomeLab</b>
-  - [Project Name](link to sub repo)
-- <b>PenTest Lab and CTF Enviorment</b>
-  - [Project Name](link to sub repo)
+<!--- <b>Current HomeLab</b> 
+ - [Project Name](link to sub repo) 
+- <b>PenTest Lab and CTF Enviorment</b> 
+ - [Project Name](link to sub repo) -->
   
 - <b>School Projects</b>
   - [Windows Server Lab](https://github.com/A1d3nsSymph0ny/WindowsServerLab)
   - [Cisco Networking Project](https://github.com/A1d3nsSymph0ny/CiscoNetworkingProject)
-  - [Firewall Setup](Link To Document)
+ <!--- - [Firewall Setup](Link To Document)
   - [Cyber Forensics)](Link To Document)
  
 <h2>My Certifications:</h2>
-   - [Cert Name](link to cert)
+   - [Cert Name](link to cert) -->
 
 <h2> 🤳 Connect with me:</h2>
 
