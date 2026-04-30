@@ -1,4 +1,4 @@
-<h1>Hey, I'm Aiden! <br/><a href="https://github.com/A1d3nsSymph0ny"> </a> <a href="www.linkedin.com/in/aiden-rose-3b5a95278">Cybersecurity Student</a> </h1>
+<h1>Hey, I'm Aiden! <br/><a href="https://www.linkedin.com/in/aiden-rose-3b5a95278/">Cybersecurity Student</a> </h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
