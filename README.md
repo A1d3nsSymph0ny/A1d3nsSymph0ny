@@ -13,6 +13,7 @@
 - **OPNsense Firewall VM**
 
 - **Kali Linux VM**
+  - For pentesting and CTFs
 
 - **Windows Server VM**
   - VPN hosting
